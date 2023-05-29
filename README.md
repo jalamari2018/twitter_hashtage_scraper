@@ -9,7 +9,7 @@
     pip install snscrape
 ```
 2. Add the hashtag you want to scrape for tweets
-3 Specify the number of tweets you want to get from the hashtage 
+3. Specify the number of tweets you want to get from the hashtage 
 
 4- Do not forget to install tqdm library, if you do not have it in your system, just delete from the import section. 
 
