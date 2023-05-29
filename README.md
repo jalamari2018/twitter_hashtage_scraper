@@ -4,7 +4,7 @@
 
 ## How it works 
 
-1. you need to install required library \
+1. you need to install required library 
 ```
     pip install snscrape
 ```
